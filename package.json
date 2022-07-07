@@ -1,6 +1,6 @@
 {
   "name": "quantum-bogosort",
-  "version": "1.2.2",
+  "version": "1.0.0",
   "description": "A quantum bogosort implementation in JavaScript",
   "main": "index",
   "engines": {
@@ -30,9 +30,9 @@
     "babel-cli": "^6.26.0",
     "babel-preset-es2015": "^6.24.1"
   },
-  "homepage": "https://github.com/Susul-1312/quantum-bogosort",
+  "homepage": "https://github.com/Susul-1312/quantumbogosort",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Susul-1312/quantum-bogosort.git"
+    "url": "https://github.com/Susul-1312/quantumbogosort.git"
   }
 }

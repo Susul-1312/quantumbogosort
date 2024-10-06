@@ -19,6 +19,6 @@ const quantumBogoSort = require('quantum-bogosort')
 const list = [2,4,5,6,2,3,4,6,7,3,2]
 const sortedList = quantumBogoSort(list)
 
-// iff we reach this point, the list is sorted
+// if we reach this point, the list is sorted
 console.log(sortedList) // [2, 2, 2, 3, 3, 4, 4, 5, 6, 6, 7]
 ```
